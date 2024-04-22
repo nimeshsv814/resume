@@ -1,0 +1,111 @@
+* {
+  background-color: rgb(206, 206, 206);
+  font-family: poppins;
+}
+.outline {
+  height: 1000px;
+  width: 650px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 320px;
+}
+.top {
+  position: relative;
+  height: 130px;
+  width: 100%;
+  background-color: #8d4b55;
+}
+.bottom {
+  position: relative;
+  height: 15px;
+  width: 100%;
+  background-color: #8d4b55;
+  top: 845px;
+}
+.circle-container {
+  width: 180px;
+  height: 180px;
+  overflow: hidden;
+  border-radius: 50%;
+  position: relative;
+  left: 45px;
+  top: 20px;
+}
+
+.circle-container img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.head_name {
+  position: relative;
+  top: -160px;
+  left: 300px;
+  background-color: transparent;
+  line-height: 10px;
+}
+.head_name p {
+  background-color: transparent;
+  color: white;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: transparent;
+  padding: 10px;
+  position: relative;
+  top: 50px;
+}
+.grid-item {
+  background-color: white;
+  border: 1px solid transparent;
+  padding: 10px;
+  font-size: 10px;
+}
+.contact {
+  background-color: transparent;
+  line-height: 8px;
+  position: relative;
+  left: -10px;
+}
+.contact h3,
+ul {
+  background-color: transparent;
+}
+.career {
+  background-color: transparent;
+  line-height: 15px;
+  position: relative;
+}
+.career h3,
+p {
+  background-color: transparent;
+}
+.skills {
+  background-color: transparent;
+  line-height: 15px;
+  position: relative;
+}
+.skills h3,
+li {
+  background-color: transparent;
+}
+.edu_bg {
+  background-color: transparent;
+  line-height: 15px;
+  position: relative;
+}
+.edu_bg h3,
+li,
+b {
+  background-color: transparent;
+}
+.area {
+  background-color: transparent;
+  line-height: 15px;
+  position: relative;
+}
+.area h3,
+li {
+  background-color: transparent;
+}
