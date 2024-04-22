@@ -2,6 +2,7 @@
   background-color: rgb(206, 206, 206);
   font-family: poppins;
 }
+
 .outline {
   height: 1000px;
   width: 650px;
@@ -52,7 +53,7 @@
   display: grid;
   grid-template-columns: auto auto;
   background-color: transparent;
-  padding: 10px;
+  padding: 20px;
   position: relative;
   top: 50px;
 }
@@ -106,6 +107,33 @@ b {
   position: relative;
 }
 .area h3,
+li {
+  background-color: transparent;
+}
+.projects {
+  background-color: transparent;
+  line-height: 15px;
+  position: relative;
+}
+.projects h3,
+li {
+  background-color: transparent;
+}
+.certi {
+  background-color: transparent;
+  line-height: 15px;
+  position: relative;
+}
+.certi h3,
+li {
+  background-color: transparent;
+}
+.achieve {
+  background-color: transparent;
+  line-height: 15px;
+  position: relative;
+}
+.achieve h3,
 li {
   background-color: transparent;
 }
