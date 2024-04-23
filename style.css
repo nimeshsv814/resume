@@ -73,10 +73,12 @@
 ul {
   background-color: transparent;
 }
+
 .career {
   background-color: transparent;
   line-height: 15px;
   position: relative;
+  top: -20px;
 }
 .career h3,
 p {
@@ -86,6 +88,7 @@ p {
   background-color: transparent;
   line-height: 15px;
   position: relative;
+  top: -10px;
 }
 .skills h3,
 li {
@@ -105,6 +108,7 @@ b {
   background-color: transparent;
   line-height: 15px;
   position: relative;
+  top: -30px;
 }
 .area h3,
 li {
@@ -114,6 +118,7 @@ li {
   background-color: transparent;
   line-height: 15px;
   position: relative;
+  top: 20px;
 }
 .projects h3,
 li {
@@ -123,6 +128,7 @@ li {
   background-color: transparent;
   line-height: 15px;
   position: relative;
+  top: -40px;
 }
 .certi h3,
 li {
@@ -132,6 +138,7 @@ li {
   background-color: transparent;
   line-height: 15px;
   position: relative;
+  top: 40px;
 }
 .achieve h3,
 li {
